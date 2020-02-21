@@ -4,6 +4,8 @@ public class A extends B{
     public A(int data){
         //super(data);
         this.data = data;
+
+        String a = "test";
     }
     
 
